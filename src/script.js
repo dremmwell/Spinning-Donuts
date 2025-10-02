@@ -10,7 +10,7 @@ import { mx_bilerp_0 } from 'three/src/nodes/materialx/lib/mx_noise.js'
  * Base
  */
 // Debug
-const gui = new GUI()
+/* const gui = new GUI() */
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
